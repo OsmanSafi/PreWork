@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  tips
-//
-//  Created by Jordan White on 12/20/15.
-//  Copyright © 2015 Two Beards and Fro. All rights reserved.
-//
-
 import UIKit
 
 
