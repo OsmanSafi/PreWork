@@ -1,9 +1,4 @@
-//
-//  TSCurrencyTextField.m
-//
-//  Created by Nicholas Hodapp on 10/30/13.
-//  Copyright (c) 2013 Nicholas Hodapp. All rights reserved.
-//
+
 
 #import "TSCurrencyTextField.h"
 #import <objc/runtime.h>
